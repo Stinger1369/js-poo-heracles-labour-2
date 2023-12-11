@@ -1,0 +1,21 @@
+#combat-scene {
+    position: relative;
+    width: 600px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+#heracles, #boar {
+    position: absolute;
+    font-size: 2rem;
+}
+
+#heracles {
+    left: 50px;
+    top: 100px;
+}
+
+#boar {
+    right: 50px;
+    top: 100px;
+}
